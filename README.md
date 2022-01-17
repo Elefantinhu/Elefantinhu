@@ -1,4 +1,4 @@
-## Olá me chamo Rafael, sou iniciante na programação buscando evoluir cada dia mais!
+## Olá me chamo Rafael! 
 <div align="left">
   <a href="https://github.com/Elefantinhu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elefantinhu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
